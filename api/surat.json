@@ -1,0 +1,23 @@
+{
+    
+    "response" :
+    [
+        {
+            "nama" : "Surat Ijin",
+            "deskripsi" : "Surat Ijin"    
+        },
+        {
+            "nama" : "Surat Keterangan",
+            "deskripsi" : "Surat Keterangan"
+        },
+        {
+            "nama" : "Surat Lamaran",
+            "deskripsi" : "Surat Lamaran"
+        },
+        {
+            "nama" : "Surat Pernyataan",
+            "deskripsi" : "Surat Pernyataan"
+        }
+    ]
+    
+}
