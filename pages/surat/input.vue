@@ -42,9 +42,9 @@ export default {
             </div>
         </div>
         <div class="flex justify-end w-full gap-3">
-            <button class="px-6 py-2 my-3 text-white bg-blue-600 rounded hover:bg-blue-700">Preview</button>
-            <button class="px-6 py-2 my-3 text-white bg-red-600 rounded hover:bg-red-700">Cancel</button>
-            <button class="px-6 py-2 my-3 text-white bg-green-600 rounded hover:bg-green-700">Submit</button>
+            <NuxtLink class="px-6 py-2 my-3 text-white bg-blue-600 rounded hover:bg-blue-700">Preview</NuxtLink>
+            <NuxtLink to="/surat" class="px-6 py-2 my-3 text-white bg-red-600 rounded hover:bg-red-700">Cancel</NuxtLink>
+            <NuxtLink class="px-6 py-2 my-3 text-white bg-green-600 rounded hover:bg-green-700">Submit</NuxtLink>
         </div>
     </div>
     </section>
