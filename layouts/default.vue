@@ -1,7 +1,6 @@
 <template>
-  <div>
-    <section>
+    <AppHeader></AppHeader>
+    <main class="pt-14 lg:pt-20 min-h-screen bg-gray-50">
       <slot />
-    </section>
-  </div>
+    </main>
 </template>

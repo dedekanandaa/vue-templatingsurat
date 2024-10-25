@@ -1,0 +1,41 @@
+{
+    "title" : "Surat Ijin",
+    "placeholder" : [
+        {
+            "name" : "Nama Lengkap",
+            "description" : "Masukkan nama lengkap anda",
+            "typedata" : "text"
+        },
+        {
+            "name" : "NIM",
+            "description" : "Masukkan NIM anda",
+            "typedata" : "number"  
+        },
+        {
+            "name" : "Jurusan",
+            "description" : "Masukkan Jurusan anda",
+            "typedata" : "text"
+        },
+        {
+            "name" : "Semester",
+            "description" : "Masukkan Semester anda",
+            "typedata" : "number"
+        },
+        {
+            "name" : "Tanggal",
+            "description" : "Masukkan Tanggal anda",
+            "typedata" : "date"
+        },
+        {
+            "name" : "Keterangan",
+            "description" : "Masukkan Keterangan anda",
+            "typedata" : "text"
+        },
+        {
+            "name" : "Alasan",
+            "description" : "Masukkan Alasan anda",
+            "typedata" : "text"
+        }
+    ]
+    
+}
