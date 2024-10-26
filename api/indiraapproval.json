@@ -1,0 +1,14 @@
+{
+    "template 1" : {
+        "doc_number" : "001",
+        "doc_title" : "Template 1",
+        "doc_content" : "This is the content of template 1",
+        "doc_description" : "template, content, description"
+    },
+    "template 2"   : {
+        "doc_number" : "002",
+        "doc_title" : "Template 2",
+        "doc_content" : "This is the content of template 2",
+        "doc_description" : "template, content, description"
+    }
+}
